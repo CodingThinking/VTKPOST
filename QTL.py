@@ -26,5 +26,5 @@ app.exec_()
 
 
 """
-
+second class
 """
